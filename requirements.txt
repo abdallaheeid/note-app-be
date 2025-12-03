@@ -17,5 +17,4 @@ sqlparse==0.5.4
 typing_extensions==4.13.2
 #uncompyle6 @ file:///Users/abdallaheid/Downloads/uncompyle6-3.9.3-py38-none-any.whl
 Werkzeug==3.0.6
-xdis==6.1.8
 zipp==3.20.2
