@@ -1,0 +1,21 @@
+asgiref==3.8.1
+backports.zoneinfo==0.2.1
+blinker==1.8.2
+click==8.1.8
+Django==4.2.27
+djangorestframework==3.15.2
+Flask==3.0.3
+importlib_metadata==8.5.0
+itsdangerous==2.2.0
+Jinja2==3.1.6
+Markdown==3.7
+MarkupSafe==2.1.5
+psycopg2-binary==2.9.10
+six==1.17.0
+spark-parser==1.9.0
+sqlparse==0.5.4
+typing_extensions==4.13.2
+uncompyle6 @ file:///Users/abdallaheid/Downloads/uncompyle6-3.9.3-py38-none-any.whl
+Werkzeug==3.0.6
+xdis==6.1.8
+zipp==3.20.2
