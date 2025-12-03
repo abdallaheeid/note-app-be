@@ -25,7 +25,7 @@ jobs:
 
       - name: Run migrations check
         run: |
-          python note-app-be/manage.py migrate --check --noinput
+          python manage.py migrate --check --noinput
 
       - name: Follow-up message
         run: echo "Sucess"
